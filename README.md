@@ -409,6 +409,31 @@ Tables are a great medium for the analytic mind. Given a page containing multipl
 
 ---
 
+## Diagram, Images and Videos
+
+Using visual media in technical documentation can be very useful, but they come with their own set of contraints and best practice. 
+
+Diagrams are technical images that usually contain a limited selection of shapes and lines with small amounts of text. They are designed to illustrate technical information in a specific way. Examples include UML diagrams or Data Flow diagrams
+
+Images can cover a number of different types of content. For instance:
+
+* Screenshots
+* Logos and other branded material
+* Photographs
+* Animated Gifs
+
+Videos contain both moving images and usually an audio commentory.
+
+
+
+### Reduce the Number of Images
+
+
+Reduce the number of images in your documentation to the bare minumum
+
+
+
+---
 # Paragraphs
 
 You'll demonstrate much of your effectiveness as a writer by how you organize sentences into paragraphs. The work of writing is simply this: untangling the dependencies among the parts of a topic, and presenting those parts in a logical stream that enables the reader to understand you.
